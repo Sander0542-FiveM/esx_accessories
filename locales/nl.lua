@@ -1,6 +1,6 @@
 Locales ['nl'] = {
   ['valid_purchase'] = 'deze aankoop valideren?',
-  ['yes'] = 'ja (<span style="color: green;">$%s</span>)',
+  ['yes'] = 'ja (<span style="color: green;">€%s</span>)',
   ['no'] = 'nee',
   ['helmet'] = 'helm / Hoed',
   ['glasses'] = 'bril',
@@ -15,5 +15,5 @@ Locales ['nl'] = {
   ['no_glasses'] = 'je hebt geen bril',
   ['no_helmet'] = 'je hebt geen helm',
   ['no_mask'] = 'je hebt geen masker',
-  ['you_paid'] = 'je hebt ~g~$%s~s~ betaald',
+  ['you_paid'] = 'je hebt ~g~€%s~s~ betaald',
 }
